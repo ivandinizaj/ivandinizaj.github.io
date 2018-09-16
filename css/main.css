@@ -1,8 +1,8 @@
 #first{
-	background-size: cover;	
+	background-size: cover !important;	
 }
 
 img{
 	border: 0!important;
-	box-shadow: none;
+	box-shadow: none!important;
 }
